@@ -12,7 +12,7 @@
 </a>
 
 <a href="https://www.twitter.com/naomijub">
-  <code><img alt="My twitter" width="28" src="https://www.freepik.com/free-icon/twitter_928949.htm" /></code>
+  <code><img alt="My twitter" width="28" src="logos/twitter.svg" /></code>
 </a>
 
 

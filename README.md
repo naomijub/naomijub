@@ -1,4 +1,4 @@
-### Hi there 👋
+## Julia Naomi (naoijub)
 
 ### Personal stuff:
 - 😄 Pronouns: **She/Her**, They/Them

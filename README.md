@@ -66,10 +66,10 @@ From gaming to full-stack
 
 <br/>
 
-<div style="display:inline">
-<img src="https://github-readme-stats.vercel.app/api?username=naomijub&show_icons=true&?count_private=true&theme=dracula&include_all_commits=true" height="180" alt="Naomijub's github stats" />
+<div style="display:inline" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=naomijub&show_icons=true&?count_private=true&theme=dracula&include_all_commits=true" height="150" alt="Naomijub's github stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naomijub&hide=Makefile&layout=compact" height="180" alt="Naomijub's top langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naomijub&hide=Makefile&layout=compact" height="150" alt="Naomijub's top langs" />
 </div>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naomijub&hide=Makefile&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->

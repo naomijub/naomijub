@@ -62,6 +62,22 @@ From gaming to full-stack
 - Elixir EDN libs: [Eden](https://github.com/jfacorro/Eden) and [exdn](https://github.com/psfblair/exdn)
 - [Hiccup - html templating macro in Rust](https://github.com/naomijub/hiccup)
 
+## Interesting projects:
+- 📌 [ATM Crux - Visual ATM using Crux as Database](https://github.com/naomijub/atm-crux)
+- 📌 [TDD on Unity - Random Game](https://github.com/GameTDD/TDD-on-Unity)
+- 📌 [Todo-server - Actix, Auth, DynamoDB, Highly tested](https://github.com/web-dev-rust/todo-server)
+- 📌 [TDD with Monogame - TicTacToe](https://github.com/GameTDD/monogame)
+- 📌 Latam Airline [Rust Backend with Graphql](https://github.com/web-dev-rust/airline-tickets) and [Rust Frontend with WASM](https://github.com/web-dev-rust/wasm-airline)
+- 📌 [Exploring FFI between JVM and Rust](https://github.com/naomijub/JVM-rust-ffi)
+- 📌 [Presidential Campaign - Rust Genetic Algorithm for a travelling salesperson](https://github.com/naomijub/presidential-campaing)
+- 📌 [SNES GoofTroop demo](https://github.com/naomijub/SNESGoofTroop)
+- 📌 [Pong Game in Rust using GGEZ](https://github.com/Alibaba-50-thieves/pong)
+- 📌 [DiammondSeek - Simple game in Java](https://github.com/naomijub/DiammondSeek)
+- 📌 [Rust Exercism Solutions](https://github.com/naomijub/rust-exercism)
+- 📌 [Kotlin Exercism Solutions](https://github.com/naomijub/kotlin-exercism)
+- 📌 [Mario Kart Multiplayer Demo in Unity 5](https://github.com/TrioDeTres/MarioKart-5.4)
+- 📌 [Composing functions with Rust](https://github.com/naomijub/rust-compose)
+
 ## Coding Activity 👩🏽‍💻
 
 <br/>
@@ -71,5 +87,3 @@ From gaming to full-stack
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naomijub&hide=Makefile&layout=compact" height="150" alt="Naomijub's top langs" />
 </div>
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naomijub&hide=Makefile&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->

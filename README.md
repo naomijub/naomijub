@@ -3,7 +3,7 @@
 Hi there! 👋🏽
 I would say that I am a Rust Evangelist <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="rust"/></code>
 
-The project that I have been most proud of is [WooriDB](https://github.com/naomijub/wooridb) which was heavily inspired by my previous work with Crux and the feeling that a DB like Crux was missing in the RUst ecosystem.
+The project that I have been most proud of is [WooriDB](https://github.com/naomijub/wooridb) which was heavily inspired by my previous work with Crux and the feeling that a DB like Crux was missing in the Rust ecosystem.
 
 ### Personal stuff:
 - 😄 Pronouns: **She/Her**, They/Them

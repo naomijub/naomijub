@@ -53,6 +53,7 @@ From gaming to full-stack
 - 📖 [Lean Game Development - English](https://www.apress.com/gp/book/9781484232156)
 - 📖 [Lean Game Development - Portuguese](https://www.casadocodigo.com.br/products/livro-lean-game-development)
 - 📖 [Programação Funcional e Concorrente em Rust (*Functional and Concurrent programming in Rust*)](https://www.casadocodigo.com.br/products/livro-rust-funcional-concorrente)
+- 📖 [TDD para Games (*TDD for Games*)](https://www.casadocodigo.com.br/products/livro-tdd-games)
 
 ## Open Source Projects:
 - [WooriDB - Time Serial Database](https://github.com/naomijub/wooridb)

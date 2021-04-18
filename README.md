@@ -8,7 +8,7 @@ The project that I have been most proud of is [WooriDB](https://github.com/naomi
 ### Personal stuff:
 - 😄 Pronouns: **She/Her**, They/Them
 - 👩🏽‍💻 I am a software engineer with focus in backend and experience in game development, devops and mobile development
-- 🔭 I’m currently working at: *sabbatical*
+- 🔭 I’m currently working at: *WooriDB*, Open Source and Chorus One
 - 👯 I’m looking to collaborate on Rust projects
 - 👩🏽‍🎓 I'm interested in performance optimization, genetic algorithm, game concurrency, natural language processing. 
 

@@ -86,7 +86,7 @@ From gaming to full-stack
 
 <br/>
 
-<div style="display:inline" align="center">
+<div style="display:inline" align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=naomijub&show_icons=true&?count_private=true&theme=dracula&include_all_commits=true" height="150" alt="Naomijub's github stats" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naomijub&hide=Makefile&layout=compact" height="150" alt="Naomijub's top langs" />

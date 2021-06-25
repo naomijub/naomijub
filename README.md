@@ -91,3 +91,5 @@ From gaming to full-stack
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naomijub&hide=Makefile&layout=compact" height="150" alt="Naomijub's top langs" />
 </div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naomijub&theme=dracula" height="150" alt="naomijub" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naomijub&theme=dracula" alt="naomijub" /></a> </p>

@@ -28,25 +28,27 @@ The project that I have been most proud of is [WooriDB](https://github.com/naomi
 From gaming to full-stack
 
 ### Current Stack 👩🏽‍💻
-- Programming: Rust <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="rust"/></code>, Clojure <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/clojure/clojure.png" alt="clojure"/></code>, C# for Unity <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" alt="unity"/></code>, Dart on Flutter <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="flutter"/></code>, Kotlin <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" alt="kotlin"/></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="rust"/></code> <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/clojure/clojure.png" alt="clojure"/></code> <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" alt="unity"/></code> <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="flutter"/></code> <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"/></code> <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker"/></code> <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="kubernetes"/></code> <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws"/></code> <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git"/></code>
+
+- Programming: Rust, C++, Clojure, C# for Unity, Dart on Flutter
 - Gaming: 
-  - Engines: Unity <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" alt="unity"/></code>, Monogame, Ggez, Amethyst and Bevy Engine
+  - Engines: Unity, Monogame, Ggez, Amethyst and Bevy Engine
   - Expertise: Physics, Weak AI, Automated Testing
-- Server Technologies: GraphQL <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="graphql"/></code>, Rest, Actix, Kafka
-- Mobile: Flutter <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="flutter"/></code>,
-- Infra: Docker <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker"/></code>, Kubernetes <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="kubernetes"/></code>, AWS <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws"/></code>, Git <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git"/></code>, Prometheus, Grafana, CI (CircleCI, TravisCI)
-- Databases: Crux, DynamoDB, Datomic, Postgres <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
+- Server Technologies: GraphQL, gRPC, Rest, Actix, Kafka
+- Mobile: Flutter,
+- Infra: Docker, Kubernetes, Azure, Git, Prometheus, Grafana, CI (Github-Actions, CircleCI, TravisCI)
+- Databases: XTDB (Crux), DynamoDB, Postgres
 - Agile practices: TDD, CI/CD, Lean, Kanban, Pair Programming
 
 ### Have worked with 👾:
-- Programming: Elixir <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/elixir/elixir.png" alt="elixir"/></code>, C/C++ <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"/></code>, Javascript <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"/></code>, Java <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java"/></code>, C# <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="csharp"/></code>, Ruby <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" alt="ruby"/></code>, Python <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"/></code>, Swift <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" alt="swift"/></code>
+- Programming: Elixir, Kotlin, Javascript, Java, C#, Ruby, Python, Swift 
 - Game Engines: Unreal, CryEngine, Allegro
 - Server Technologies: RabbitMQ
-- Front-end: React <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"/></code>, Redux <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt="redux"/></code>, WASM, HTML, CSS
-- Infra: GCP, Terraform <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" alt="terraform"/></code>, Chef
-- Databases: CassandraDB, MongoDB <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>, MySQL <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+- Front-end: WASM (Yew), React, Redux, HTML, CSS
+- Infra: AWS, GCP, Terraform, Chef
+- Databases: Datomic, CassandraDB, MongoDB, MySQL
 - Agile practices: Extreme Programming, Scrum
-- Mobile: Swift <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" alt="swift"/></code>
+- Mobile: Swift
 
 
 ## Books Published 📚

@@ -60,8 +60,9 @@ From gaming to full-stack
 
 ## Open Source Projects:
 - [WooriDB - Time Serial Database](https://github.com/naomijub/wooridb)
-- [Transistor - Rust CruxDB Client](https://github.com/naomijub/transistor)
-- [Translixir - Elixir CruxDB Client](https://github.com/naomijub/translixir)
+- [ClojuRS - Clojure-like Lisp with Rust](https://github.com/naomijub/ClojuRS)
+- [Transistor - Rust CruxDB Client](https://github.com/naomijub/transistor) [TO UPGRADE]
+- [Translixir - Elixir CruxDB Client](https://github.com/naomijub/translixir) [TO UPGRADE]
 - [Brcode - PIX QR Code parser](https://github.com/naomijub/brcode)
 - [edn-rs - Rust EDN (de)serializer](https://github.com/naomijub/edn-rs)
 - [edn-derive - Rust EDN macro (de)serializer](https://github.com/otaviopace/edn-derive)

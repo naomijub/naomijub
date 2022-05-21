@@ -69,6 +69,8 @@ From gaming to full-stack
 - Elixir EDN libs: [Eden](https://github.com/jfacorro/Eden) and [exdn](https://github.com/psfblair/exdn)
 - [Hiccup - html templating macro in Rust](https://github.com/naomijub/hiccup)
 
+* Obs: I have started a new personal project strategy, my new projects are private until they make it to a certain usability or purpose.
+
 ## Interesting projects:
 - 📌 [ATM Crux - Visual ATM using Crux as Database](https://github.com/naomijub/atm-crux)
 - 📌 [TDD on Unity - Random Game](https://github.com/GameTDD/TDD-on-Unity)

@@ -13,9 +13,11 @@ The project that I have been most proud of is [WooriDB](https://github.com/naomi
 - 👩🏽‍🎓 I'm interested in performance optimization, genetic algorithm, game concurrency, natural language processing. 
 
 ### Where to find me 📬:
+
 <a href="https://www.linkedin.com/in/naomijub">
-  <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
-</a>
+ <img width="28" src="https://user-images.githubusercontent.com/14813660/170812779-06f9dc9a-7041-4d36-8710-2b4706664860.png" />
+ </a>
+
 
 <a href="https://www.twitter.com/naomijub">
   <code><img alt="My twitter" width="28" src="logos/twitter.svg" /></code>

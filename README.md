@@ -16,14 +16,17 @@ The project that I have been most proud of is [WooriDB](https://github.com/naomi
 
 <a href="https://www.linkedin.com/in/naomijub">
  <img width="28" src="https://user-images.githubusercontent.com/14813660/170812779-06f9dc9a-7041-4d36-8710-2b4706664860.png" />
- </a>
-
+</a>
 
 <a href="https://www.twitter.com/naomijub">
   <code><img alt="My twitter" width="28" src="logos/twitter.svg" /></code>
 </a>
 
 <br/>
+
+## Currently working on
+- [Book - Unity FPS game with TDD (English)](https://github.com/naomijub/Unity-FPS-game-with-TDD-Book)
+- [Book - Desenvolvimento de Jogos Online com Rust (Portuguese)](https://github.com/naomijub/Rust-game-dev)
 
 ## Engineering Stack
 

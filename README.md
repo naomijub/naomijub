@@ -5,8 +5,6 @@ I would say that I am a Rust Evangelist <code><img height="24" src="https://raw.
 
 The project that I have been most proud of is [WooriDB](https://github.com/naomijub/wooridb) which was heavily inspired by my previous work with Crux and the feeling that a DB like Crux was missing in the Rust ecosystem.
 
-[![](https://media.giphy.com/media/FOe2EcTuBYGbG0Yc3w/giphy.gif)](https://www.patreon.com/naomijub)
-
 ### Personal stuff:
 - 😄 Pronouns: **She/Her**, They/Them
 - 👩🏽‍💻 I am a software engineer with focus in backend and game development, having experience in devops and mobile development
@@ -91,6 +89,7 @@ From gaming to full-stack
 
 ## Coding Activity 👩🏽‍💻
 
+[![](https://media.giphy.com/media/FOe2EcTuBYGbG0Yc3w/giphy.gif)](https://www.patreon.com/naomijub)
 <br/>
 
 <div style="display:inline" align="left">

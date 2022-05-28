@@ -89,7 +89,7 @@ From gaming to full-stack
 
 ## Coding Activity 👩🏽‍💻
 
-[![](https://media.giphy.com/media/FOe2EcTuBYGbG0Yc3w/giphy.gif)](https://www.patreon.com/naomijub)
+![[](https://www.patreon.com/naomijub)](https://media.giphy.com/media/FOe2EcTuBYGbG0Yc3w/giphy.gif)
 <br/>
 
 <div style="display:inline" align="left">

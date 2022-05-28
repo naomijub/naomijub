@@ -37,20 +37,20 @@ From gaming to full-stack
 
 - Programming: Rust, C++, Clojure, C# for Unity, Dart on Flutter
 - Gaming: 
-  - Engines: Unity, Monogame, Ggez, Amethyst and Bevy Engine
-  - Expertise: Physics, Weak AI, Automated Testing
-- Server Technologies: GraphQL, gRPC, Rest, Actix, Kafka
-- Mobile: Flutter,
-- Infra: Docker, Kubernetes, Azure, Git, Prometheus, Grafana, CI (Github-Actions, CircleCI, TravisCI)
+  - Engines: Unity, Monogame, Ggez and Bevy Engine
+  - Expertise: Tooling, Automated Testing, Online, ECS, Physics, Weak AI
+- Server Technologies: GraphQL, gRPC, Cap'n'Proto, Rest, Actix, Kafka
+- Mobile: Flutter, Unity
+- Infra: Docker, Kubernetes, Git, Prometheus, Grafana, CI (Github-Actions, CircleCI, TravisCI), Perforce
 - Databases: XTDB (Crux), DynamoDB, Postgres
 - Agile practices: TDD, CI/CD, Lean, Kanban, Pair Programming
 
 ### Have worked with 👾:
 - Programming: Elixir, Kotlin, Javascript, Java, C#, Ruby, Python, Swift 
-- Game Engines: Unreal, CryEngine, Allegro
+- Game Engines: Amethyst, Unreal, CryEngine, Allegro
 - Server Technologies: RabbitMQ
 - Front-end: WASM (Yew), React, Redux, HTML, CSS
-- Infra: AWS, GCP, Terraform, Chef
+- Infra: AWS, GCP, Terraform, Chef, Azure
 - Databases: Datomic, CassandraDB, MongoDB, MySQL
 - Agile practices: Extreme Programming, Scrum
 - Mobile: Swift

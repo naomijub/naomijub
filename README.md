@@ -9,7 +9,7 @@ The project that I have been most proud of is [WooriDB](https://github.com/naomi
 - 😄 Pronouns: **She/Her**, They/Them
 - 👩🏽‍💻 I am a software engineer with focus in backend and game development, having experience in devops and mobile development
 - 🔭 I’m currently working at: <img alt="Ubisoft" height="28" src="logos/ubisoft.jpeg" />
-- 👯 I’m looking to collaborate on Rust projects
+- 👯 I’m looking to collaborate on Game Projects written in Rust
 - 👩🏽‍🎓 I'm interested in performance optimization, genetic algorithm, game concurrency, natural language processing. 
 
 ### Where to find me 📬:

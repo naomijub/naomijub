@@ -96,10 +96,6 @@ From gaming to full-stack
 
 ## Coding Activity 👩🏽‍💻
 
-[![](https://media.giphy.com/media/FOe2EcTuBYGbG0Yc3w/giphy.gif)](https://www.patreon.com/naomijub) <br/>
-[Patreon link](https://www.patreon.com/naomijub)
-<br/>
-
 <div style="display:inline" align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=naomijub&show_icons=true&?count_private=true&theme=dracula&include_all_commits=true" height="150" alt="Naomijub's github stats" />
 

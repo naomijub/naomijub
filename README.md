@@ -3,14 +3,14 @@
 Hi there! 👋🏽
 I would say that I am a Rust Evangelist <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="rust"/></code>
 
-The project that I have been most proud of is [WooriDB](https://github.com/naomijub/wooridb) which was heavily inspired by my previous work with Crux and the feeling that a DB like Crux was missing in the Rust ecosystem.
+The projects that I'm most proud of are all my books on game development topic and [WooriDB](https://github.com/naomijub/wooridb) which was heavily inspired by my previous work with Crux and the feeling that a DB like Crux was missing in the Rust ecosystem.
 
 ### Personal stuff:
 - 😄 Pronouns: **She/Her**, They/Them
-- 👩🏽‍💻 I am a software engineer with focus in backend and game development, having some experience in devops and mobile development
+- 👩🏽‍💻 I am a tech lead software engineer with focus in backend and game development, having some experience in devops and mobile development
 - 🔭 I’m currently working at: <img alt="Ubisoft" height="28" src="logos/ubisoft.jpeg" /> as a Team Lead Programmer
 - 👯 I’m looking to collaborate on Game Projects written in Rust
-- 👩🏽‍🎓 I'm interested in performance optimization, genetic algorithm, game concurrency, natural language processing. 
+- 👩🏽‍🎓 I'm interested in VOXELS, game AI, game concurrency, genetic algorithm, natural language processing. 
 - 🇨🇦🇧🇷
 
 ### Where to find me 📬:

@@ -26,9 +26,8 @@ The projects that I'm most proud of are all my [books on game development](#book
 <br/>
 
 ## Currently working on
-- [Book - Unity FPS game with TDD (English)](https://github.com/naomijub/Unity-FPS-game-with-TDD-Book)
+- Creating a gRPC client in Rust for [XTDB](https://xtdb.com/)
 - [Book - Desenvolvimento de Jogos Online com Rust (Portuguese)](https://github.com/naomijub/Rust-game-dev)
-- Supporting [@belagoesr](https://github.com/belagoesr) in updating the open source book [Desenvolvimento Web com Rust (*Web dev with Rust*)](https://github.com/naomijub/web-dev-rust-book)
 
 ## Engineering Stack
 

@@ -7,7 +7,7 @@ The projects that I'm most proud of are all my [books on game development](#book
 
 ### Personal stuff:
 - 😄 Pronouns: **She/Her**, They/Them
-- 👾 I love mixed reality project (AR?VR) and Voxels
+- 👾 I love mixed reality project (AR/VR) and Voxels
 - 👩🏽‍💻 I am a tech lead software engineer with focus in backend and game development, having some experience in devops and mobile development
 - 🔭 I’m currently working at: <img alt="Ubisoft" height="28" src="logos/ubisoft.jpeg" /> as a Team Lead Developer eXperience
 - 👯 I’m looking to collaborate on Game Projects written in Rust

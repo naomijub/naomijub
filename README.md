@@ -37,25 +37,26 @@ From gaming to full-stack
 ### Current Stack 👩🏽‍💻
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="rust"/></code> <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/clojure/clojure.png" alt="clojure"/></code> <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" alt="unity"/></code> <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="flutter"/></code> <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"/></code> <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker"/></code> <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="kubernetes"/></code> <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws"/></code> <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git"/></code>
 
-- Programming: Rust, C++, Clojure, C# for Unity, Dart on Flutter
+- Programming: Rust, C++, Clojure, C# for Unity, Javascript, Java
 - Gaming: 
-  - Engines: Unity, Monogame, Ggez and Bevy Engine
-  - Expertise: Tooling, Automated Testing, Online, ECS, Physics, Weak AI
-- Server Technologies: GraphQL, gRPC, Cap'n'Proto, Rest, Actix, Kafka
-- Mobile: Flutter, Unity
-- Infra: Docker, Kubernetes, Git, Prometheus, Grafana, CI (Github-Actions, CircleCI, TravisCI), Perforce
+  - Engines: Unity, Bevy Engine and Unreal
+  - Expertise: Tooling, Voxels, XR, Automated Testing, Online, ECS, Physics, Weak AI
+- Server Technologies: GraphQL, gRPC, Cap'n'Proto, WebRTC, Relays, Kafka
+- Front-end: WASM, React, HTML, CSS
+- Mobile: Unity, Rust
+- Infra: Docker, Git, Prometheus, Grafana, CI (Github-Actions, CircleCI, TravisCI), Perforce
+- Cloud: Kubernetes, AWS
 - Databases: XTDB (Crux), DynamoDB, Postgres
 - Agile practices: TDD, CI/CD, Lean, Kanban, Pair Programming
 
 ### Have worked with 👾:
-- Programming: Elixir, Kotlin, Javascript, Java, C#, Ruby, Python, Swift 
+- Programming: Elixir, Kotlin, C#, Ruby, Python, Swift , Dart on Flutter
 - Game Engines: Amethyst, Unreal, CryEngine, Allegro
 - Server Technologies: RabbitMQ
-- Front-end: WASM (Yew), React, Redux, HTML, CSS
-- Infra: AWS, GCP, Terraform, Chef, Azure
+- Infra/Cloud: GCP, Terraform, Chef, Azure
 - Databases: Datomic, CassandraDB, MongoDB, MySQL
 - Agile practices: Extreme Programming, Scrum
-- Mobile: Swift
+- Mobile: Flutter, Swift
 
 
 ## Books Published 📚

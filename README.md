@@ -3,7 +3,7 @@
 Hi there! 👋🏽
 I would say that I am a Rust Evangelist <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="rust"/></code>
 
-The projects that I'm most proud of are all my [books on game development](#books-published-), [TDD for Games (Book + Repo)](https://github.com/GameTDD/TDD-on-Unity), [Edn-rs](https://github.com/naomijub/edn-rs) and **[WooriDB](https://github.com/naomijub/wooridb)** which was heavily inspired by my previous work with XTDB (previous Crux) and the feeling that a DB like XDTB was missing in the Rust ecosystem.
+The projects that I'm most proud of are [books on game development](#books-published-), [TDD for Games (Book + Repo)](https://github.com/GameTDD/TDD-on-Unity), [Edn-rs](https://github.com/naomijub/edn-rs) and **[WooriDB](https://github.com/naomijub/wooridb)** which was heavily inspired by my previous work with XTDB (previous Crux) and the feeling that a DB like XDTB was missing in the Rust ecosystem.
 
 ### Personal stuff:
 - 😄 Pronouns: **She/Her**, They/Them

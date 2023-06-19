@@ -11,7 +11,7 @@ The projects that I'm most proud of are [books on game development](#books-publi
 - 👩🏽‍💻 I am a tech lead software engineer with focus in backend and game development, having some experience in devops and mobile development
 - 🔭 I’m currently working at: <img alt="Ubisoft" height="28" src="logos/ubisoft.jpeg" /> as a Team Lead Developer eXperience
 - 👯 I’m looking to collaborate on Game Projects written in Rust
-- 👩🏽‍🎓 I'm interested in VOXELS, XR/AR?VR, game AI, game concurrency, game servers, genetic algorithm, natural language processing. 
+- 👩🏽‍🎓 I'm interested in VOXELS, XR/AR/VR, game AI, game concurrency, game servers, genetic algorithm, natural language processing. 
 - 🇨🇦🇧🇷
 
 ### Where to find me 📬:

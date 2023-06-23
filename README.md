@@ -27,7 +27,7 @@ The projects that I'm most proud of are [books on game development](#books-publi
 <br/>
 
 ## Currently working on
-- Creating a gRPC client in Rust for [XTDB](https://xtdb.com/)
+- Creating a [gRPC client](https://github.com/naomijub/gXTDB) in Rust and Clojure gRPC plugin for [XTDB](https://xtdb.com/)
 - [Book - Desenvolvimento de Jogos Online com Rust (Portuguese)](https://github.com/naomijub/Rust-game-dev)
 
 ## Engineering Stack

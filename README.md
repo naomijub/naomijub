@@ -37,16 +37,16 @@ From gaming to full-stack
 ### Current Stack 👩🏽‍💻
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="rust"/></code> <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/clojure/clojure.png" alt="clojure"/></code> <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" alt="unity"/></code> <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="flutter"/></code> <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"/></code> <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker"/></code> <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="kubernetes"/></code> <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws"/></code> <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git"/></code>
 
-- Programming: Rust, C++, Clojure, C# for Unity, Javascript, Java
+- Programming: **Rust, C++, Clojure, C#, Javascript, Java**
 - Gaming: 
-  - Engines: Unity, Bevy Engine and Unreal
-  - Expertise: Tooling, Voxels, XR, Automated Testing, Online, ECS, Physics, Weak AI
+  - Engines: **Unity, Bevy Engine** and Unreal
+  - Expertise: Online, Voxels, XR, Automated Testing, Tooling, ECS, Physics, Weak AI
 - Server Technologies: GraphQL, gRPC, Cap'n'Proto, WebRTC, Relays, Kafka
 - Front-end: WASM, React, HTML, CSS
 - Mobile: Unity, Rust
 - Infra: Docker, Git, Prometheus, Grafana, CI (Github-Actions, CircleCI, TravisCI), Perforce
 - Cloud: Kubernetes, AWS
-- Databases: XTDB (Crux), DynamoDB, Postgres
+- Databases: XTDB (Crux), DynamoDB, Postgres, Redis
 - Agile practices: TDD, CI/CD, Lean, Kanban, Pair Programming
 
 ### Have worked with 👾:

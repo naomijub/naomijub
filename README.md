@@ -27,8 +27,7 @@ The projects that I'm most proud of are [books on game development](#books-publi
 <br/>
 
 ## Currently working on
-- Creating a [gRPC client](https://github.com/naomijub/gXTDB) in Rust and Clojure gRPC plugin for [XTDB](https://xtdb.com/)
-- [Book - Desenvolvimento de Jogos Online com Rust (Portuguese)](https://github.com/naomijub/Rust-game-dev)
+- Trying to port my work to an open source version of our Bevy Editor
 
 ## Engineering Stack
 

@@ -27,7 +27,9 @@ The projects that I'm most proud of are [books on game development](#books-publi
 <br/>
 
 ## Currently working on
-- Trying to port my work to an open source version of our Bevy Editor
+- Trying to port my work to an free version of our Bevy Editor.
+  - Compiles to all major targets
+  - Compiles to some NDA platforms upon NDA
 
 ## Engineering Stack
 

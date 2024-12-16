@@ -1,17 +1,18 @@
 ## Julia Naomi (naomijub)
 
 Hi there! 👋🏽
-I would say that I am a Rust Evangelist <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="rust"/></code>
+I would say that I am a Rust Evangelist <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="rust"/></code>. Checkout my [personal blog](https://naomijub.github.io/blog/cover.html) for more.
 
-The projects that I'm most proud of are [books on game development](#books-published-), [TDD for Games (Book + Repo)](https://github.com/GameTDD/TDD-on-Unity), [Edn-rs](https://github.com/naomijub/edn-rs) and **[WooriDB](https://github.com/naomijub/wooridb)** which was heavily inspired by my previous work with XTDB (previous Crux) and the feeling that a DB like XDTB was missing in the Rust ecosystem.
+The projects that I'm most proud of are **[WooriDB](https://github.com/naomijub/wooridb)** which was heavily inspired by my previous work with XTDB and the feeling that a DB like XDTB was missing in the Rust ecosystem, then my [books on game development](#books-published-), [TDD for Games (Book + Repo)](https://github.com/GameTDD/TDD-on-Unity) and my [open source projects](#open-source-projects).
 
 ### Personal stuff:
 - 😄 Pronouns: **She/Her**, They/Them
+- 🛢️ I love databases, specially time serial databases.
 - 👾 I love mixed reality project (AR/VR) and Voxels
-- 👩🏽‍💻 I am a tech lead software engineer with focus in backend and game development, having some experience in devops and mobile development
-- 🔭 I’m currently working at: <img alt="Ubisoft" height="28" src="logos/ubisoft.jpeg" /> as an Online Team Lead Programmer
-- 👯 I’m looking to collaborate on Game Projects written in Rust
-- 👩🏽‍🎓 I'm interested in VOXELS, XR/AR/VR, game AI, game concurrency, game servers, genetic algorithm, natural language processing. 
+- 👩🏽‍💻 I am a tech lead software engineer with focus in backend and functional programming. Also have some experience with game development, Infosec, DevOps and Mobile. 
+- 🔭 I’m currently working at: <img alt="Ubisoft" height="28" src="logos/ubisoft.jpeg" /> as an Online Team Lead Programmer.
+- 👯 I’m currently collaborating in bevy projects like [Space Editor](https://github.com/rewin123/space_editor)
+- 👩🏽‍🎓 Besides that I like Board Games, ECS, genetic algorithm, natural language processing, Fuzzy Logic, Procedural Content Generation and Voxels. 
 - 🇨🇦🇧🇷
 
 ### Where to find me 📬:
@@ -25,31 +26,29 @@ The projects that I'm most proud of are [books on game development](#books-publi
 
 ## Engineering Stack
 
-From gaming to full-stack
-
 ### Current Stack 👩🏽‍💻
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="rust"/></code> <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/clojure/clojure.png" alt="clojure"/></code> <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" alt="unity"/></code> <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="flutter"/></code> <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"/></code> <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker"/></code> <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="kubernetes"/></code> <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws"/></code> <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git"/></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="rust"/></code> <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/clojure/clojure.png" alt="clojure"/></code> <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" alt="unity"/></code> <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker"/></code> <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="kubernetes"/></code> <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws"/></code> <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git"/></code>
 
-- Programming: **Rust, C++, Clojure, C#, Javascript, Java**
-- Gaming: 
-  - Engines: **Unity, Bevy Engine** and Unreal
-  - Expertise: Online, Voxels, XR, Automated Testing, Tooling, ECS, Physics, Weak AI
-- Server Technologies: GraphQL, gRPC, Cap'n'Proto, WebRTC, Relays, Kafka
-- Front-end: WASM, React, HTML, CSS
-- Mobile: Unity, Rust
-- Infra: Docker, Git, Prometheus, Grafana, CI (Github-Actions, CircleCI, TravisCI), Perforce
+- Programming: **Rust, C++, Clojure, C#, Typescript, Java**
+- Server Technologies: GraphQL, gRPC, Cap'n'Proto, REST, QUIC, WebRTC, Relays, Kafka
+- Infra: Docker, Git, Terraform, Prometheus, Grafana, CI (Github-Actions, CircleCI, TravisCI)
 - Cloud: Kubernetes, AWS
-- Databases: XTDB (Crux), DynamoDB, Postgres, Redis
+- Databases: DynamoDB, Postgres, Redis
 - Agile practices: TDD, CI/CD, Lean, Kanban, Pair Programming
+- Game Engines: Bevy, Unity
+- Front-end: WASM, HTMX, CSS
+- Mobile: Unity, Rust
 
 ### Have worked with 👾:
-- Programming: Elixir, Kotlin, C#, Ruby, Python, Swift , Dart on Flutter
-- Game Engines: Amethyst, Unreal, CryEngine, Allegro
+- Programming: Elixir, Kotlin, Ruby, Python, Swift , Javascript, Dart on Flutter
+- Game Engines: Unreal, CryEngine, Allegro
 - Server Technologies: RabbitMQ
-- Infra/Cloud: GCP, Terraform, Chef, Azure
-- Databases: Datomic, CassandraDB, MongoDB, MySQL
+- Infra/Cloud: GCP, Chef, Azure, Ansible
+- Databases: Datomic, CassandraDB, MongoDB, MySQL, SQLite
 - Agile practices: Extreme Programming, Scrum
 - Mobile: Flutter, Swift
+- Gaming Engines: Unity, Bevy Engine and Unreal
+- Gaming Expertise: Online, Voxels, XR, Automated Testing, Tooling, ECS, Physics, Weak AI
 
 
 ## Books Published 📚
@@ -61,32 +60,37 @@ From gaming to full-stack
 
 ## Open Source Projects:
 - [WooriDB - Time Serial Database](https://github.com/naomijub/wooridb)
-- [ClojuRS - Clojure-like Lisp with Rust](https://github.com/naomijub/ClojuRS)
-- [Transistor - Rust CruxDB Client](https://github.com/naomijub/transistor) [TO UPGRADE]
-- [Translixir - Elixir CruxDB Client](https://github.com/naomijub/translixir) [TO UPGRADE]
 - [Brcode - PIX QR Code parser](https://github.com/naomijub/brcode)
+- [Space Editor - Bevy Engine Game Editor](https://github.com/rewin123/space_editor)
+- [tokio_retry2 - Extensible, asynchronous retry behaviours for tokio](https://github.com/naomijub/tokio-retry)
+- [Observable Trees - Fully tokio async channeled trees, no extra deps](https://github.com/naomijub/Observable-btree)
+- [Bevy Chess Game - 0.14](https://github.com/naomijub/bevy_chess)
+
+
+### Archieved Open Source Projects:
 - [edn-rs - Rust EDN (de)serializer](https://github.com/naomijub/edn-rs)
 - [edn-derive - Rust EDN macro (de)serializer](https://github.com/otaviopace/edn-derive)
+- [ClojuRS - Clojure-like Lisp with Rust](https://github.com/naomijub/ClojuRS)
+- [Transistor - Rust CruxDB Client](https://github.com/naomijub/transistor) 
+- [Translixir - Elixir CruxDB Client](https://github.com/naomijub/translixir) 
 - Elixir EDN libs: [Eden](https://github.com/jfacorro/Eden) and [exdn](https://github.com/psfblair/exdn)
 - [Hiccup - html templating macro in Rust](https://github.com/naomijub/hiccup)
-
-* Obs: I have started a new personal project strategy, my new projects are private until they make it to a certain usability or purpose.
-
-## Interesting projects:
+  
+## Interesting old projects:
+- 📌 [Composing functions with Rust](https://github.com/naomijub/rust-compose)
+- 📌 [Exploring FFI between JVM and Rust](https://github.com/naomijub/JVM-rust-ffi)
+- 📌 [DiammondSeek - Simple game in Java](https://github.com/naomijub/DiammondSeek)
+- 📌 [Rust Exercism Solutions](https://github.com/naomijub/rust-exercism)
 - 📌 [ATM Crux - Visual ATM using Crux as Database](https://github.com/naomijub/atm-crux)
 - 📌 [TDD on Unity - Random Game](https://github.com/GameTDD/TDD-on-Unity)
 - 📌 [Todo-server - Actix, Auth, DynamoDB, Highly tested](https://github.com/web-dev-rust/todo-server)
 - 📌 [TDD with Monogame - TicTacToe](https://github.com/GameTDD/monogame)
 - 📌 Latam Airline [Rust Backend with Graphql](https://github.com/web-dev-rust/airline-tickets) and [Rust Frontend with WASM](https://github.com/web-dev-rust/wasm-airline)
-- 📌 [Exploring FFI between JVM and Rust](https://github.com/naomijub/JVM-rust-ffi)
 - 📌 [Presidential Campaign - Rust Genetic Algorithm for a travelling salesperson](https://github.com/naomijub/presidential-campaing)
 - 📌 [SNES GoofTroop demo](https://github.com/naomijub/SNESGoofTroop)
 - 📌 [Pong Game in Rust using GGEZ](https://github.com/Alibaba-50-thieves/pong)
-- 📌 [DiammondSeek - Simple game in Java](https://github.com/naomijub/DiammondSeek)
-- 📌 [Rust Exercism Solutions](https://github.com/naomijub/rust-exercism)
 - 📌 [Kotlin Exercism Solutions](https://github.com/naomijub/kotlin-exercism)
 - 📌 [Mario Kart Multiplayer Demo in Unity 5](https://github.com/TrioDeTres/MarioKart-5.4)
-- 📌 [Composing functions with Rust](https://github.com/naomijub/rust-compose)
 
 ## Coding Activity 👩🏽‍💻
 
@@ -95,5 +99,4 @@ From gaming to full-stack
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naomijub&hide=Makefile&layout=compact" height="150" alt="Naomijub's top langs" />
 </div>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naomijub&theme=dracula" height="150" alt="naomijub" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naomijub&theme=dracula" alt="naomijub" /></a> </p>

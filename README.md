@@ -20,16 +20,8 @@ The projects that I'm most proud of are [books on game development](#books-publi
  <img width="28" src="https://user-images.githubusercontent.com/14813660/170812779-06f9dc9a-7041-4d36-8710-2b4706664860.png" />
 </a>
 
-<a href="https://www.twitter.com/naomijub">
-  <code><img alt="My twitter" width="28" src="logos/twitter.svg" /></code>
-</a>
-
 <br/>
 
-## Currently working on
-- Trying to port my work to an free version of our Bevy Editor.
-  - Compiles to all major targets
-  - Compiles to some NDA platforms upon NDA
 
 ## Engineering Stack
 

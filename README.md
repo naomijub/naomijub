@@ -10,7 +10,7 @@ The projects that I'm most proud of are **[WooriDB](https://github.com/naomijub/
 - 🛢️ I love databases, specially time serial databases.
 - 👾 I love procedural content generation and voxels.
 - 👩🏽‍💻 I am a tech lead software engineer with focus in functional programming. My main experiences are with backend services and multiplayer games. However, I have experience in other areas like  game AI and Physics, Infosec, Mobile and SRE. 
-- 🔭 I’m currently working at: <img alt="Ubisoft" height="28" src="logos/ubisoft.jpeg" /> as an Online Team Lead Programmer.
+- 🔭 I’m currently working at: .
 - 👯 I’m currently working on some personal projects like **[Bevy_knossos](https://github.com/naomijub/bevy_knossos)** and **[bevy-inspector-ui](https://github.com/naomijub/bevy-inspector-ui)**
 - 👩🏽‍🎓 Besides that I like Board Games, ECS, genetic algorithm, natural language processing, Fuzzy Logic. 
 - 🇨🇦🇧🇷

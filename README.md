@@ -1,33 +1,25 @@
 ## Julia Naomi (naomijub)
 
 Hi there! 👋🏽
-I would say that I am a Rust Evangelist <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="rust"/></code>. Checkout my [personal blog](https://naomijub.github.io/blog/cover.html) for more, sometimes I paste ideas there.
+I would say that I am a Rust Specialist <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="rust"/></code>.
 
-The projects that I'm most proud of are **[WooriDB](https://github.com/naomijub/wooridb)** which was heavily inspired by my previous work with XTDB and the feeling that a DB like XDTB was missing in the Rust ecosystem, my largest open-source contribution has been to Bevy Projects, specially **[Space Editor](https://github.com/rewin123/space_editor)**, then my [books on Rust and game development](#books-published-), [TDD for Games (Book + Repo)](https://github.com/GameTDD/TDD-on-Unity) and my [open source projects](#open-source-projects).
+The projects that I'm most proud of are my [books on Rust and game development](#books-published-), my database prototype **[WooriDB](https://github.com/naomijub/wooridb)** which was heavily inspired by my previous work with XTDB and Datomic, and **[Space Editor](https://github.com/rewin123/space_editor)**, a Bevy Game Editor.
 
 ### Personal stuff:
 - 😄 Pronouns: **She/Her**, They/Them
-- 🛢️ I love databases, specially time serial databases.
+- 🛢️ I love functional programming and databases, specially time serial databases.
 - 👾 I love procedural content generation and voxels.
-- 👩🏽‍💻 I am a tech lead software engineer with focus in functional programming. My main experiences are with backend services and multiplayer games. However, I have experience in other areas like  game AI and Physics, Infosec, Mobile and SRE. 
-- 🔭 I’m currently working at: Apollo GraphQL.
-- 👯 I’m currently working on some personal projects like **[Bevy_knossos](https://github.com/naomijub/bevy_knossos)** and **[bevy-inspector-ui](https://github.com/naomijub/bevy-inspector-ui)**
+- 🎮 I am Tech Director at a proto studio with some other big industry names from Rockstar, Ubisoft and Playstation.
+- 👩🏽‍💻 I have been leading teams in backend services and multiplayer games. 
+- 🔭 I’m currently working at: Apollo GraphQL as a Software Engineer.
+- 👯 My current personal projects MHTH and **[Bevy_knossos](https://github.com/naomijub/bevy_knossos)** and **[barebones-cli](https://github.com/naomijub/barebones-cli)**
 - 👩🏽‍🎓 Besides that I like Board Games, ECS, genetic algorithm, natural language processing, Fuzzy Logic. 
 - 🇨🇦🇧🇷
-
-### Where to find me 📬:
-
-<a href="https://www.linkedin.com/in/naomijub">
- <img width="28" src="https://user-images.githubusercontent.com/14813660/170812779-06f9dc9a-7041-4d36-8710-2b4706664860.png" />
-</a>
-
-<br/>
-
 
 ## Engineering Stack
 
 ### Current Stack 👩🏽‍💻
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="rust"/></code> <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/clojure/clojure.png" alt="clojure"/></code> <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" alt="unity"/></code> <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker"/></code> <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="kubernetes"/></code> <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws"/></code> <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git"/></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="rust"/></code> <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/clojure/clojure.png" alt="clojure"/></code>
 
 - Programming: **Rust, Clojure, C++, C#**
 - Server Technologies: GraphQL, gRPC, QUIC, REST, Kafka
@@ -35,19 +27,18 @@ The projects that I'm most proud of are **[WooriDB](https://github.com/naomijub/
 - Cloud: AWS, Kubernetes
 - Databases: DynamoDB, Postgres, Redis
 - Agile practices: TDD, CI/CD, Lean, Kanban, Pair Programming
-- Game Engines: Bevy, Unity
-- Front-end: WASM, HTMX, CSS
+- Game Engines: Unreal, Bevy
+- Gaming Expertise: Online, PCG, Voxels, Automated Testing, ECS
 
 ### Have worked with 👾:
 - Programming: Elixir, Kotlin, Ruby, Python, Swift , Javascript, Typescript, Java
-- Game Engines: Unreal, CryEngine, Allegro
+- Game Engines: Unity, CryEngine, Allegro
 - Server Technologies:  Cap'n'Proto, WebRTC, Relays, RabbitMQ
 - Infra/Cloud: GCP, Chef, Azure, Ansible
 - Databases: Datomic, CassandraDB, MongoDB, MySQL, SQLite
 - Agile practices: Extreme Programming, Scrum
 - Mobile: Flutter, Swift
-- Gaming Expertise: Online, PCG, Voxels, XR, Automated Testing, Tooling, ECS, Physics, Weak AI
-
+- Gaming Expertise: XR, Tooling, Physics, Weak AI
 
 ## Books Published 📚
 - 📖 [Lean Game Development - English](https://www.apress.com/gp/book/9781484232156)
@@ -56,12 +47,14 @@ The projects that I'm most proud of are **[WooriDB](https://github.com/naomijub/
 - 📖 [TDD para Games (*TDD for Games*)](https://www.casadocodigo.com.br/products/livro-tdd-games)
 - 📖 [[OPEN SOURCE] Desenvolvimento Web com Rust (*Web dev with Rust*)](https://github.com/naomijub/web-dev-rust-book)
 
-## Open Source Projects:
+## Open Source Projects - Expect me to keep maintaining them:
 - [WooriDB - Time Serial Database](https://github.com/naomijub/wooridb)
+- [barebones-cli - CLI Template](https://github.com/naomijub/barebones-cli)
+- [serde_json_shape - Define the common shape of a set of JSONs](https://github.com/naomijub/serde_json_shape)
 - [Bevy Knossos - Maze library for Bevy](https://github.com/naomijub/bevy_knossos)
 - [Brcode - PIX QR Code parser](https://github.com/naomijub/brcode)
 - [tokio_retry2 - Extensible, asynchronous retry behaviours for tokio](https://github.com/naomijub/tokio-retry)
-- [Observable Trees - Fully tokio async channeled trees, no extra deps](https://github.com/naomijub/Observable-btree)
+- [difference_rs - text diff library](https://github.com/naomijub/difference-rs)
 
 ### Archieved Open Source Projects:
 - [Space Editor - Bevy Engine Game Editor](https://github.com/rewin123/space_editor)
@@ -73,6 +66,7 @@ The projects that I'm most proud of are **[WooriDB](https://github.com/naomijub/
 - Elixir EDN libs: [Eden](https://github.com/jfacorro/Eden) and [exdn](https://github.com/psfblair/exdn)
 - [Hiccup - html templating macro in Rust](https://github.com/naomijub/hiccup)
 - [Bevy Chess Game - 0.14](https://github.com/naomijub/bevy_chess)
+- [Observable Trees - Fully tokio async channeled trees, no extra deps](https://github.com/naomijub/Observable-btree)
   
 ## Interesting old projects:
 - 📌 [Composing functions with Rust](https://github.com/naomijub/rust-compose)
@@ -90,6 +84,8 @@ The projects that I'm most proud of are **[WooriDB](https://github.com/naomijub/
 - 📌 [Kotlin Exercism Solutions](https://github.com/naomijub/kotlin-exercism)
 - 📌 [Mario Kart Multiplayer Demo in Unity 5](https://github.com/TrioDeTres/MarioKart-5.4)
 
+Checkout my [personal blog](https://naomijub.github.io/blog/cover.html) for more, sometimes I paste ideas there.
+
 ## Coding Activity 👩🏽‍💻
 
 <div style="display:inline" align="left">
@@ -98,3 +94,4 @@ The projects that I'm most proud of are **[WooriDB](https://github.com/naomijub/
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naomijub&hide=Makefile&layout=compact" height="150" alt="Naomijub's top langs" />
 </div>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naomijub&theme=dracula" alt="naomijub" /></a> </p>
+
